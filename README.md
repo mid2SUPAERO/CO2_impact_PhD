@@ -1,2 +1,4 @@
 # CO2_impact_PhD
-calcul pour doctorant ICA
+Estimation faite par Edouard Duriez lors de sa thèse à l'ICA/SUPAERO
+
+
